@@ -37,7 +37,7 @@ Proton network can well be adopted to empower the digital marketing eco-system u
 
 ### Join Proton Chain ###
 ```
-npm i -g pttchain
+npm i -g pttnormal
 ```
 
 ### Account for PTTChain ###
@@ -46,7 +46,7 @@ npm i -g pttchain
 
 ### Fire up ###
 ```
-proton
+protongo
 ```
 
 <br />
