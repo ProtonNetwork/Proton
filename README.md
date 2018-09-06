@@ -89,7 +89,9 @@ protongo
 Following are the resources you may find useful to interact with Proton Network:
 
 * [x] Interaction Tools
+  * [x] [Proton Browser](https://scan.proton.global) 
+
+* [x] IDE
   * [x] [Proton IDE coming soon](https://www.proton.global/)
-  * [x] [Proton Browser coming soon](https://www.proton.global) 
 
 (c) Proton Network 2018. [MIT Licenses](https://opensource.org/licenses/MIT)
