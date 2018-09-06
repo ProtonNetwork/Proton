@@ -1,4 +1,4 @@
-# Proton Chain #
+# Proton Network #
 
 Proton is a Blockchain Based System enabling the Unified ID system for Data Storage and Collaboration.It allows decentralised data sharing and processing with guaranteed privacy among different platforms,freeing data from today’s silos. 
 Proton network can well be adopted to empower the digital marketing eco-system using blockchain and provides support and service to advertisers, agents, DSPs, SSPs, DMPs and end users. 
