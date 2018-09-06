@@ -76,7 +76,7 @@ protongo
 ## Contact ##
 
 ### Email ###
-* [Proton Email](info@proton.global)
+* [Proton Email:info@proton.global]
 
 
 ### Official Website ###
