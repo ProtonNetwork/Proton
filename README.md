@@ -80,7 +80,7 @@ protongo
 
 
 ### Official Website ###
-* [Official Website](www.proton.global)
+* [Official Website](https://www.proton.global)
 
 <br />
 
